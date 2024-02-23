@@ -1,5 +1,5 @@
 # Color Shades Generator App
-
+test change
 - You can clone this repository to get the source code on your PC and then run `npm install` to install dependencies and packages.
 - `npm start` helps you start the server locally.
 
